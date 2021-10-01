@@ -193,6 +193,7 @@ header {
 
 .address{
   color: var(--primary-white-color);
+  font-style: normal;
 }
 
 .link-footer{
@@ -212,6 +213,12 @@ header {
 
 .works{
   background-color: var(--primary-white-color);
+}
+
+.works-nav .button{
+  font-weight: 500;
+  font-size: var(--portfolio-primary-font-size);
+  line-height: 1.63;
 }
 
 .works .name {
